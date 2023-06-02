@@ -1,0 +1,1012 @@
+Steuern Zusammenfassung
+
+1. Steuerrechtliche Grundlagen und Steuersystem
+
+1.1Steuerrechtliche Grundlagen
+
+1.1.1 Begriff und Abgrenzung der Steuer
+
+1.1.1.1 Der Begriff der Steuer und seine Merkmale 
+
+„Steuern sind Geldleistungen, die nicht eine Gegenleistung für eine besondere Leistung darstellen und von einem öffentlich-rechtlichen Gemeinwesen zur Erzielung von Einnahmen allen auferlegt werden, bei denen der Tatbestand zutrifft, an den das Gesetz die Leistungspflicht knüpft; die Erzielung von Einnahmen kann Nebenzweck sein.“ (§3 I AO)
+--> Einfuhr- und Ausfuhrabgaben gem. Art. 5 Nr. 20, 21 UZK sind ebenfalls Steuern i.S.d. §3 III 1 AO
+
+=> Steuer sind Zwangsabgaben in Form von  Geldleistungen.
+=> Es gelten die Grundsätze der Gleichmäßigkeit und der Tatbestandsmäßigkeit.
+=> Außerdem gilt der Grundsatz der Nonaffektion (keine Gegenleistung für eine besondere Leistung, keine Zweckbindung der Mittel)
+=> Hauptzweck ist die Erzielung von Einnahmen
+
+
+1.1.1.2 Die Abgrenzung zu anderen Abgaben
+
+
+
+
+1.1.2 Die Steuerhoheit
+
+1.1.2.1 Allgemeine Grundlagen (S.2)
+
+1.1.2.2 Die räumliche Steuerhoheit
+- Inwieweit dürfen ausländische Einkünfte und ausländisches Vermögen von inländischen Staatsangehörigen oder von im Inland Ansässigen besteuert werden?
+- Inwieweit dürfen ausländische Staatsangehörige und im Ausland Ansässige mit inländischen Einkünften und inländischem Vermögen besteuert werden?
+- Nach h.M. darf jeder Staat frei bestimmen, ob und wieweit Ausländer innerhalb seines Gebietes und Staatsangehörige außerhalb seines Gebietes zur Steuer herangezogen werden sollen.
+
+
+1.1.2.3 Die sachliche Steuerhoheit
+- Steuergesetzgebungshoheit
+o Art. 105 GG
+o Konkurrierende Gesetzgebung
+- Steuerertragshoheit
+o Artt. 106, 107 GG
+o (reine) Bundessteuer (Zölle)
+o (reine) Ländersteuer (Erbschaftssteuer)
+o (reine) Gemeindesteuer 
+o Gemeinschaftssteuer (Art. 106 III GG; Einkommenssteuer)
+- Steuerverwaltungshoheit
+o Steuern werden von Bundesfinanzbehörden oder von Landesfinanzbehörden verwaltet.
+o Behörde ist jede Stelle, die Aufgaben der öffentlichen Verwaltung wahrnimmt §6 I AO
+
+
+1.1.3 Das Steuerrechtsverhältnis
+
+
+
+1.1.4 Der Steuertatbestand im weiteren Sinne
+§38 AO- komplexer Tatbestand; daher weitere Unterscheidung
+
+1.1.4.1 Das Steuersubjekt
+Das Steuersubjekt ist Rechtsperson eines Steuergesetzes, der ein Steuerobjekt und die damit verbundene Steuerschuld zugerechnet wird. 
+Die Frage lautet: „Wer ist Steuerschuldner?“
+
+1.1.4.2 Das Steuerobjekt (Steuertatbestand im engeren Sinne) 
+Das Steuerobjekt ist der Inbegriff der sachlichen Voraussetzungen der Entstehung der Steuerschuld. 
+Die Frage lautet hier: „Was ist besteuerbar?“
+
+1.1.4.3 Die Zurechnung eines Steuerobjekts zu einem Steuersubjekt 
+I.d.R ergibt sich die Zurechnung aus der Bestimmung des Steuerschuldners. 
+1.1.4.4 Die abstrakten Merkmale des inländischen Steuerschuldverhältnisses
+Die abstrakten Merkmale des inländischen Steuerschuldverhältnisses bestimmen die Grenzen der Zugehörigkeit zur inländischen Steuergewalt. Allgemein wird zwischen der unbeschränkten Steuerpflicht (die an die Staatsangehörigkeit, den Wohnsitz, den gewöhnlichen Aufenthalt, den Sitz oder die Geschäftsleistung anknüpft und in einer vollen Zurechnung des steuerobjekts besteht) und der beschränkten (die nur das inländische Steuerobjekt erfasst) unterschieden.
+Die Frage lautet: „Wer ist im Inland steuerpflichtig?“; „Was ist im Inland besteuerbar?“
+
+
+1.1.4.5 Die Steuerbemessungsgrundlage
+Das was zu besteuern ist, ist in einer Zahl auszudrücken
+Geschieht durch die Steuerbemessungsgrundlage (quantifiziert das Steuerobjekt)
+- An Wert (Wert, Entgelt, Gegenleistung) anknüpfend oder
+- Technische Bemessungsgrundlage (Stückzahl, Menge, Gewicht, Hohlmaß, Flächenmaß)
+
+=> Bemessungsgrundlage wird durch Freibeträge und Freigrenzen gemindert
+=> Freibetrag ist der Betrag, der von der Bemessungsgrundlage abgezogen wird und stets steuerfrei bleibt.
+=> Freigrenze ist der Betrag, bis zu dem die Bemessungsgrundlage steuerfrei bleibt, bei dessen Überschreitung dann aber die volle Bemessungsgrundlage besteuert wird.
+
+
+1.1.4.6 Der Steuersatz und Steuertarif
+- Steuersatz ist eine funktionale Beziehung zwischen Steuerbemessungsgrundlage und Steuerschuld/ Steuerbetrag.
+o Entweder in Form eines bestimmten Prozent- oder Promillesatzes der Bemessungsgrundlage oder als fester Geldbetrag pro Einheit der Bemessungsgrundlage
+- Eine Mehrheit von Steuersätzen bezeichnet man als Steuertarif. Man unterscheidet verschiedene Tarife:
+o Proportionaler Tarif: Durchschnittssteuersatz ist gleich bleibend
+o Progressiver Tarif: Durchschnittssteuersatz steigt mit wachsender Bemessungsgrundlage
+o Regressiver Tarif: Durchschnittssteuersatz fällt mit steigender Bemessungsgrundlage.
+
+
+1.1.5 Die Rechtsnormen des Steuerrechts S.12
+
+1.1.6 Die Rechtsanwendung im Steuerrecht S.13
+
+
+1.2 Überblick über das Steuersystem Deutschlands
+
+1.2.1. Steuerarten und Steueraufkommen S. 16
+
+1.2.2 Systematisierung der Steuerarten 
+
+
+
+1.2.3 Meilensteine in der Entwicklung des Steuerrechts S.19
+
+
+2. Einkommenssteuer
+
+2.1 Charakteristik und Entwicklung
+- Dirkete Steuer
+- Personensteuer
+- Natürliche Person
+- Gemeinschaftsteuer
+- Progressiver Steuertarif (§32a EStG) (0%-45%)
+- Einkommenssteuer betrifft Betriebe nicht, sondern die Unternehmer und Gesellschafter (Einkünfte zu versteuern)
+- Betriebliche Steuerlehre
+o Unternehmer: ESt
+o EStG: Gewinnermittlung
+o EStG: Grundlage für KSt und GewSt
+o EStG: Quellensteuern (LSt./ KapESt)
+o ESt: relevant bei unternehmerischen Entscheidungen
+
+
+2.2 Das Steuersubjekt
+
+2.2.1 Natürliche Personen als Steuersubjekte
+- Steuersubjekt nach §1 I 1 EStG: die nat. Person
+o Auch bei §26b EStG, jeder Ehegatte Steuersubjekt
+- Nicht: KapG (KST)
+- Nicht: Personengesellschaften (Gesellschafter zahlen ESt)
+- Nicht: Unternehmer
+
+
+2.2.2 Die internationale Abgrenzung der Steuerpflicht
+- Unbeschränkt steuerpflichtig sind:
+o Nat. Personen die im Inland einen Wohnsitz (§8 AO) oder ihren gewöhnlichen Aufenthalt (§9AO) haben (unbeschränkte Steuerpflicht i.e.S. §1 I EStG)
+o Ergänzungsfall S. 27 Diplomaten und ähnliches (erweiterte unbeschränkte Steuerpflicht §1 II EStG)
+o Ergänzungsfall Wahlrecht „Ausländer“ mit starkem Inlandsbezug (fiktive unbeschränkte Steuerpficht §1 III EStG)
+- Steuerobjekt ist grds. das Welteinkommen
+o Ausgenommen die Einkommensteile, die nach einem Abkommen zur Vermeidung einer Doppelbesteuerung (DBA) im Inland steuerfrei gestellt werden. Die fiktive unbeschränkte Steuerpflicht ist auf die inländischen Einkünfte i.S.d. §49 EStG begrenzt (§1 III EStG)
+- Beschränkt steuerpflichtig sind nat. Personen die im Inland weder einen Wohnsitz noch einen gewöhnlichen Aufenthalt haben und nicht unter eine obere Gruppe fallen, aber Einkünfte i.S.d. §49 EStG erzielen (§1 IV EStG)
+o Steuerobjekt sind nur die inländischen Einkünfte i.S.d. §49 EStG
+- Erweiterte beschränkte Steuerpflicht für
+o Steuerpflichtige
+o Die in ein Niedrigsteuerland ausgewandert sind
+o Bindung zum Inland aufgrund wesentlicher wirtschaftlicher Interessen 
+o Sofern in den letzten 10 Jahren vor der Wohnsitzverlagerung mindestens 5 Jahre als Deutscher der unbeschränkten Steuerpflicht unterlagen §2 I AStG
+o Steuerobjekt= Welteinkommen, abzüglich der ausländischen Einkünfte i.S.d. §34c I EStG i.V.m. §34d EStG
+o Diese Steuerpflicht beträgt nach Wegzug 10 Jahre
+
+
+2.3 Das Steuerobjekt und die Steuerbemessungsgrundlage
+
+2.3.1 Der Einkommensbegriff des §2 EStG
+
+2.3.1.1 Überblick und Systematik
+- Einkommen als Steuerobjekt
+- Gesetzliche Struktur des §2 EStG
+
+
+
+2.3.1.2 Das wirtschaftliche Steuerobjekt der Einkommensteuer:
+	„Einkommen“ nach Quellen- und Reinvermögenszugangstheorie
+
+Quellentheorie:
+- Vermögensmehrungen werde zur Ermittlung des Einkommens unterschieden in 
+o Laufende, regelmäßige Einkünfte, die als Einkommen zu qualifizieren sind 
+o Und Wertveränderungen im sog. Stammvermögen, einschließlich der Wertrealisation durch Veräußerung, die wegen fehlender „Aussicht auf Wiederholung“ nicht zum Einkommen gehören
+
+Reinvermögenszugangstheorie:
+- Einkommen ist der Zugang von Reinvermögen während einer gegebenen Periode
+- Auf Kriterien wie Regelmäßigkeit oder Aussicht auf Wiederholung wird nicht abgestellt
+
+
+Die Gewinneinkunftsarten orientieren sich im Wesentlichen an der Reinvermögenszugangstheorie.
+Die Überschusseinkunftsarten orientieren sich an der Quellentheorie
+
+
+
+2.3.1.3 Das rechtliche Steuerobjekt der Einkommensteuer
+
+2.3.1.3.1 Steuerbare und nicht steuerbare Einkünfte
+- Steuerbare Einkünfte werden durch 2 Merkmale gekennzeichnet
+o TB einer Einkunftsart i.S.d. §2 I EStG
+o Werden durch eine Erwerbstätigkeit erwirtschaftet
+
+- Ob Einkünfte erwirtschaftet wurden ist anhand von objektiven und subjektiven Tatbeständen zu prüfen
+o Objektiver Tatbestand ist die Beteiligung am allgemeinen wirtschaftlichen Verkehr
+o Subjektive Voraussetzung ist die Absicht, während der Erwerbstätigkeit einen Überschuss der Bezüge über die Aufwendungen zu erzielen (Einkünfteerzielungsabsicht)
+* Innere Tatsache, die sich nur anhand äußerer Merkmale beurteilen lässt
+* Merkmale sind
+* Zusammenhang der Tätigkeit mit der privaten Lebensführung
+* Art der Ausübung der Tätigkeit
+* Dauer der Verlusterzielung
+* Gemeinnützige Tätigkeit
+* Liebhaberei
+
+
+2.3.1.3.2 Steuerpflichtige und steuerfreie Einkünfte
+- Grundsätzlich sind steuerbare Einkünfte auch steuerpflichtige Einkünfte
+- 3 Möglichkeiten bestimmte Einkünfte aus dem Steuerobjekt auszuklammern (objektive Befreiung) §§3, 3a, 3b EStG
+- Steuerbefreite Einnahmen sind bspw.:
+o Besondere Leistungen an Arbeitnehmern
+
+
+2.3.1.3.3 Das objektive Nettoprinzip:
+	Berücksichtigung einkunftsbedingter Abflüsse
+- Positive Vermögensveränderungen sind Erwerbsbezüge
+- Negative Vermögensbezüge sind Erwerbsaufwendungen
+- Auch die Erwerbsaufwendungen sind Ausdruck steuerlicher Leistungsfähigkeit
+o Steuerlich belastbar ist nur das Gesamtergebnis einer Erwerbstätigkeit als Saldo aus positiven und negativen Größen (objektives Nettoprinzip)
+o Folglich unterliegen der Einkommensteuer nach §2 II 1 EStG nur Reineinkünfte
+o „Gewinn“ und „Überschuss der Einnahmen über die Werbungskosten“ (bei Gewinn und Überschusseinkunftsarten)
+
+
+
+2.3.1.3.4 Persönliche und zeitliche Zurechnung von Einkünften
+- Allgemeine Regel für die persönliche Zurechnung (§2 I 1 EStG9
+o Einkünfte sind der Person zuzurechnen, die sie erzielt/erwirtschaftet hat
+o Erwirtschaftet werden Einkünfte von dem, der die Einkünfte aufgrund seiner Betätigung unter Beteiligung am wirtschaftlichen Verkehr erzielt
+- Bei der zeitlichen Zuordnung ist zu beachten, dass Einkommen nicht erst das Totaleinkommen einer nat. Person nach der gesamten Erwerbszeit, sondern periodisch und sukzessiv das Jahres erfasst
+o Einkommensteuer ist demnach eine Jahressteuer §2 VII 1 EStG
+- Bei der zeitlichen Einordnung von Einkünften, 2 Systeme
+o Grds. System der Vereinnahmung und Verausgabung, dieses wird vom Zufluss- und Abflussprinzip beherrscht
+o Ausnahme bei bilanzierenden Unternehmern, hier System der periodenrichtigen Gewinnermittlung, hier findet eine Periodisierung statt
+
+
+
+
+2.3.1.4 Das subjektive Nettoprinzip: Berücksichtigung bestimmter privater Abzüge
+- Nicht nur Erwerbsaufwendungen, sondern auch Ausgaben die außerhalb der Sphäre der Einkommenserzielung anfallen, sind einkommensteuerrechtlich von Bedeutung (allgemeines privates Nettoprinzip)
+- Deshalb auch Unterhaltsverpflichtungen in realitätsgerechter Weise steuermindernd berücksichtigt werden (spezielles Familien-Nettoprinzip)
+- Maßgröße steuerlicher Leistungsfähigkeit ist demnach nicht das Erwerbseinkommen, sondern nur das für die Steuerzahlung disponible Einkommen
+
+
+
+
+2.3.2 Die Summe der Einkünfte (§2 I, II EStG) (Steuerbemessungsgrundlage)
+
+2.3.2.1 Die einzelnen Einkunftsarten
+
+2.3.2.1.1 Die Gewinneinkunftsarten
+- Gemeinsame Begriffsmerkmale
+- Merkmale einer Gewinneinkunftsart lassen sich durch die positiven Merkmale der Begriffsbestimmung des Gewerbebetriebs gem. §15 II. 1 EStG bestimmen
+o „Eine selbständige nachhaltige. Betätigung, die mit der Absicht, Gewinn zu erzielen, unternommen wird und sich als Beteiligung am allgemeinen wirtschaftlichen Verkehr darstellt, ist Gewerbebetrieb, wenn die Betätigung weder als Ausübung von Land- und Forstwirtschaft noch als Ausübung eines freien Berufs noch als eine andere selbständige Arbeit anzusehen ist.“
+- Positive Begriffsmerkmale:
+o Selbständige Betätigung
+* Wenn auf eigene Rechnung und Gefahr gehandelt wird
+* Steuerpflichtiger muss selbst Unternehmerinitiative entfalten und das unternehmerische Risiko tragen
+o Nachhaltigkeit
+* Tätigkeit muss von der Absicht getragen sein, sie zu wiederholen und daraus eine ständige Erwerbsquelle zu machen 
+* (Wiederholungsabsicht als subj. TBM)
+* Objektiv als (i.d.R. durch Wiederholung) nachhaltig darstellen
+o Gewinnerzielungsabsicht
+* Streben nach einkommensteuerrechtlich relevanter Betriebsvermögensmehrung in Gestalt eines Totalgewinns
+o Beteiligung am allgemeinen wirtschaftlichen Verkehr
+* Tätigkeit wird am Markt (gegenüber einer unbestimmten Vielzahl von Nachfragern), gegen Entgelt und für Dritte äußerlich erkennbar angeboten
+- Abgrenzung der Einkünfte aus Gewerbebetrieb von anderen Gewinneinkunftsarten erfolgt durch negative Merkmale
+o Es darf sich nicht um
+* Land- und Forstwirtschaft (LuF)
+* Selbständige Arbeit oder
+* Bloße Vermögensverwaltung handeln.
+
+- Veräußerungs- bzw. Aufgabegewinne (von Betrieben oder Gesellschaftsanteilen) werden grds. durch Ermittlungs- und Tarifbegünstigungen besonders behandelt.
+o i.R.d. Ermittlungsbegünstigungen bleiben durch Freibeträge bestimmte Anteile dieser Gewinne steuerfrei (§14 S.2, §16 IV, §17 III, §18 III 2 EStG)
+
+
+
+- Gewinne aus der Veräußerung einer Beteiligung (Mindestbeteiligungshöhe:1%) am einer KapG (§17 EStG) werden nicht mehr begünstigt, da bereits 40% des Gewinns von der Steuer befreit sind (§3 Nr. 40 c EStG)
+- Besteuerung außerordentlicher Einkünfte unter Umgehung der partiellen Progression mittels der Fünftelungsregelung
+o Alternativ hierzu unter bestimmten Voraussetzungen die Möglichkeit zur Besteuerung mit 56% des durchschnittlichen Steuersatzes (sog. Halbsteuersatzregelung)
+- Verluste grds. verrechenbar, aber mit Begrenzung
+o Verluste von Kommanditisten nur bis zur Höhe der Einlagen
+o Verluste in Zusammenhang mit Steuerbemessungsmodellen
+
+
+
+
+
+2.3.2.1.1.2 Einkünfte aus Land und Forstwirtschaft
+- Enge Definition
+o „Ist die planmäßige Nutzung der natürlichen Kräfte des Bodens und die Verwertung der dadurch gewonnenen Erzeugnisse (sog. Urproduktion).“
+o Beinhaltet, Aufzucht von Pflanzen als auch die Tierzucht und die Tierhaltung, soweit die Futtermengen aus der land-  und forstwirtschaftlich genutzten Fläche selbst gewonnen werden können
+- Besonderheiten (§13a EStG, Pauschalbesteuerung)
+- VG/ VV steuerpflichtig
+
+
+2.3.2.1.1.3 Einkünfte aus Gewerbebetrieb (§§15-17 EStG)
+- Begriff siehe oben
+- Arten:
+o Einkünfte aus gewerblichen (Einzel-) Unternehmen
+* Handwerker, Händler, …
+o Einkünfte aus gewerblichen Mitunternehmergemeinschaften 
+* Personengesellschaften
+* Gew. Personengesellschaft
+* IMMER Gewerbebetrieb (auch ohne Gewerblichkeit)
+* Gemischttätige Personengesellschaften
+* GmbH& Co.KG
+o Einkünfte aus Komplementären einer KGaA
+o VG/VV eines Gewerbebetriebs
+o Einkünfte aus Veräußerung von Anteilen an KapG („wesentliche Beteiligung
+- Einkünfte aus Gewerbebetrieb unterliegen i.d.R. der Gewerbesteuer
+o Zur Vermeidung von steuerlicher Doppelbelastung erfolgt eine pauschale Anrechnung der Gewerbesteuer auf die Einkommensteuerschuld (§35 EStG)
+
+
+
+
+2.3.2.1.1.4 Einkünfte aus selbständiger Arbeit (§18 EStG)
+- Keine Definition, aber 4 Kategorien
+o Einkünfte aus freiberuflicher Tätigkeit
+* Wissenschaftliche, künstlerische, unternehmerische oder erziehende Tätigkeit
+* Katalogberufe& ähnliche Berufe
+o Einkünfte einer staatlichen Lotterie
+o Einkünfte aus sonstiger selbständiger Arbeit
+* Testamentsvollstreckung, Vermögensverwaltung, Tätigkeit als Aufsichtsratsmitglied, Insolvenzverwalter)
+o Privat equity
+
+
+2.3.2.1.2 Die Überschusseinkunftsarten
+
+2.3.2.1.2.1 Einkünfte aus nichtselbständiger Arbeit (§19 EStG)
+- Löhne& Gehälter der AN
+o Aktuellen& früheren Dienstverhältnissen
+- Versorgungsbezüge
+- Besteuerung von Sachbezügen (96% mit 1080€ FB) (50€ Grenze für Gutscheine im Monat)
+- Lohnsteuerabzug
+
+2.3.2.1.2.2 Einkünfte aus Kapitalvermögen (§20 EStG)
+- Seit 2009: RV-Zugangstheorie mit Abgeltungssteuer
+o Laufende Früchte (Dividenden, Zinsen, usw.)
+o Veräußerungsvorgänge (Aktien, sonstiges)
+- Grundsatz Abgeltungssteuer: (25%; keine Veranlagung, keine Werbungskosten)
+o Nicht im betrieblichen Bereich (Teileinkünfteverfahren)
+o Nicht im „Spezialbereich“(Lebensversicherungen, Zinsen bei Nahestehenden): Normaltarif
+- Option im Privatbereich zur Nichtabgeltungssteuer
+o Enger Verbund Gesellschafter- Gesellschaft (Teileinkünfteverfahren)
+o Geringverdiener (Normaltarif)
+- Begrenzung der Verlustrechnung
+- Näheres S. 50-56
+
+2.3.2.1.2.3 Einkünfte aus Vermietung und Verpachtung (§21 EStG)
+- Zeitlich begrenzte Überlassung von nicht geldlichen Vermögensteilen (Realvermögen) (Quellentheorie)
+- 4 Kategorien
+o V+V von unbeweglichem Vermögen (Immobilien)
+o V+V von Sachinbegriffen (Bibliotheken, Großrechenanlagen, Fuhrparks, Wohnungseinrichtungen)
+o V+V von Lizensen (Überlassung von Rechten)
+o V+V von Mietforderungn 
+- Demnach keine Einkünfte aus Vermietung einer beweglichen Sache
+- 2/3 Regelung
+o Entgelt für Überlassung von Wohnungen zu Wohnzwecken weniger als 66% der ortsüblichen Marktmiete, ist die Nutzungsüberlassung in einen entgeltlichen und einen unentgeltlichen Teil zu teilen
+- Näher S. 57-58
+
+2.3.2.1.2.4 sonstige Einkünfte (§§22-23 EStG)
+- Völlig verschiedene Besteuerungstatbestände
+- Nicht alle denkbaren Einkünfte
+- Liste in §§22 EStG
+- 6 Kategorien
+o Einkünfte aus wiederkehrenden Bezügen
+* Sozialversicherungsrenten
+* Private Renten
+o Einkünfte aus bestimmten Unterhaltsleistungen
+o Einkünfte aus privaten Veräußerungsgeschäften („Spekulation“)
+* Immobilien 10 Jahres Frist
+* Andere Güter: 1Jahres Frist (nicht Kapitalvermögen)
+* KFZ, Schmuck, Hausrat, Krypto ? Gegenstände des täglichen Bedarfs
+* Freigrenze von 600€
+* Nicht Güter des täglichen Bedarfs
+* Sehr restriktive Verlustrechnung 
+o Einkünfte aus Leistungen
+* Tun, Dulden, Unterlassen
+* Freigrenze von 256€
+o Einkünfte aus Abgeordnetenbezügen
+o Einkünfte aus „Riester Rente“ (volle Besteuerung)
+- Subsidiaritätsregelungen--> 
+      Gewinneinkünfte vor Überschusseinkünfte
+
+2.3.2.2 Die Ermittlung der Einkünfte
+
+2.3.2.2.1 Methoden der Einkünfteermittlung
+
+2.3.2.2.2 Grundbegriffe der Einkünfteermittlung
+
+2.3.2.2.2.1 Vorbemerkungen und Abgrenzungsprobleme
+- Handeln zub Erwerbszwecken verursacht Vermögenszugänge und -abgänge die bei der Steuerobjektsermittlung zu berücksichtigen sind
+- Das Handeln zu Privatzwecken  lässt private Vermögenszugänge und -abgänge nicht in das Steuerobjekt eingehen
+
+- Drei Abgrenzungsbereiche
+o Erwerbsbezüge <=> Privatbezüge
+o Erwerbsaufwendungen <=> Privataufwendungen 
+(Betriebsausgaben/ Werbungskosten)
+* Betriebsausgaben: veranlasst durch den Betrieb
+* Werbungskosten: Veranlassung durch Einnahmen
+* Besonderheiten bei Erwerbsaufwendungen
+* Problem: gemischte Aufwendungen
+* Nicht abziehbare Aufwendungen
+-->§4 EStG:
+Aufzählung
+* Sonstige Einzelsachverhalte
+o Abziehbare Privataufwendungen <=> nicht abziehbare Privataufwendungen
+- Abziehbare Aufwendungen (bedeutende)
+o Grundsteuer
+o „Berufsbeiträge“
+o Fahrten, Wohnung- Arbeitsstätte (begrenzung)
+o Arbeitszimmer (Begrenzung)
+o Doppelte HH-Führung
+o Fortbildung
+o Arbeitsmittel
+o EDV-Kosten
+o Arbeitskleidung
+o Reisekosten
+o Telefonkosten
+o Zinsen
+o AN-Pauschalbetrag: 1200€
+
+
+2.3.2.3 Verlustverrechnung
+
+
+2.3.3 Der Gesamtbetrag der Einkünfte §2 II EStG
+- Summe der Einkünfte
+- Ggf. abzüglich dreier Kleinbeträge
+o Altersentlastungsbetrag
+o Entlastungsbetrag für Alleinerziehende
+o Freibetrag für LuF
+
+
+2.3.4 Das Einkommen (§2 IV EStG)
+
+2.3.4.1 Verlustabzug nach §10d EStG
+- Falls Verluste durch den Verlustausgleich nicht vollständig ausgeglichen werden konnten, 
+o Können verbleibende Verluste nach Maßgabe des §10d EStG im Wege des Verlustabzugs vom Gesamtbetrag der Einkünfte abgezogen werden
+- Genauer 2.3.2.3
+
+2.3.4.2 Sonderausgaben
+- Privatbedingt --> subjektives Nettoprinzip
+- Unbeschränkt abzugsfähige Sonderausgaben
+o Bestimmte Versorgungsleistungen (Korrespondenzprinzip)
+o Kirchensteuer
+- Beschränkt abzugsfähige Sonderausgaben
+o Bestimmte Unterhaltsleistungen („Realsplitting“)
+o Vorsorgeaufwendungen
+- Weitere Sonderausgaben
+o Erstmalige Berufsausbildung (max. 6000€)
+o 2/3 bestimmter Kinderbetreuungskosten (max 4000€ pro Kind)
+o 30% bestimmter Schulgelder (max. 5000€)
+o Beiträge zur Riester-Rente (max. 2100€)
+o Spenden. (max. 20% des Gesamtbetrags der Einkünfte)
+
+2.3.4.3 Den Sonderausgaben gleichgestellte Aufwendungen (§§10e-10g EStG)
+
+2.3.4.4 Die außergewöhnlichen Belastungen (§§33-33b EStG)
+- Allgemeiner Fall: unvermeidbare, sehr hohe Privataufwendungen 
+- Spezieller Fall: Unterhaltsleistungen an Personen, ohne Kinderfreibetrag bis max. 9998€; Sonderausbildungsfreibetrag; Pauschalbeträge für Behinderte)
+
+2.3.5 Das zu versteuernde Einkommen (§2 V EStG)
+- Unter bestimmten Voraussetzungen sind ein oder mehrere Kinderfreibeträge und ein Härteausgleich zu berücksichtigen
+o Kinderfreibetrag je Kind 2.586€ (bei Zusammenveranlagung: 5.172€) zzgl. des Freibetrags für Betreuungs- und Erziehungs- oder Ausbildungsbedarf i.H.v. 1.320€ je Elternteil soweit das Kindergeld nicht günstiger ist §32 VI 1 EStG
+o Härteausgleich: bei Einkünften von denen ein Steuerabzug vom Arbeitslohn nicht vorgenommen worden ist §46 III EStG, §70 EStDV
+* Eine Einkommenssteuer zu zahlen, wenn die Einkünfte weniger als 410€ betragen
+* Fallbeileffekt 
+
+
+
+
+
+2.4 Der Steuertarif
+
+2.4.1 Wirtschaftliche Leistungsfähigkeit und progressiver Tarif
+- Aus dem Prinzip der Besteuerung nach der wirtschaftlichen Leistungsfähigkeit wird eine Besteuerung des Einkommens nach progressiver Art abgeleitet
+
+2.4.2 Der Aufbau des Einkommensteuertarifs
+- Verfassungsrechtlich gebotenes Existenzminimum (durch Grundfreibetrag) ist von der Belastung der Einkommensteuer freigestellt
+- Wichtigste Eckdaten des Einkommensteuertarifs des Jahres 2020:
+o Grundfreibetrag beträgt 9.408€
+o Für Einkünfte ab 9.409€ beträgt der Eingangssteuersatz 14%
+o Für Einkünfte ab 270.501€ beträgt der Spitzensteuersatz 45%
+- Mehrere Ausnahmen vom Normaltarif führen zu Steuerermäßigungen
+
+2.4.3 Die Elemente der Familienbesteuerung
+- Alle Personen, für die nicht die Ehegattenveranlagung in Betracht kommt, werden einzeln veranlagt (Einzelveranlagung)
+- Ehegatten die beide unbeschränkt einkommenssteuerpflichtig sind, nicht dauernd getrennt leben und bei denen diese Voraussetzungen zu Beginn des VAZ vorgelegen haben oder während des VAZ eingetreten sind, können zwischen der getrennten Veranlagung und der Zusammenveranlagung wählen (§26 I 1 EStG)
+o getrennte Veranlagung: Einkommen unterliegt eines jeden Ehegatten dem Normaltarif; jeder Ehegatte hat die von ihm erwirtschafteten Einkünfte selbst zu versteuern §26a I 1 EStG.
+Sonderausgaben, außergewöhnliche Belastungen und die Steuerermäßigungen nach den §§35a und 35c EStG werden demjenigen Ehegatten zugerechnet, der die entsprechenden Aufwendungen wirtschaftlich getragen hat
+o Zusammenveranlagung nutzt das Splittingverfahren bzw. den Splittingtarif. Einkünfte beider Gatten werden getrennt ermittelt und dann zusammengerechnet; sodann werden sie als ein Steuerpflichtiger behandelt §26b EStG. Tarifliche Einkommensteuer beträgt dann das Doppelte des Steuerbetrags, der sich für die Hälfte ihres gemeinsam zu versteuernden Einkommens ergibt
+
+
+2.4.4 Die Steuertarif- und die Steuerbetragsermäßigungen
+
+2.4.4.1 Die Steuertarifermäßigungen
+- Zweck der Tarifermäßigungen ist die Progressionsmilderung für Erwerbsbezüge, die mehrere Jahre zurechenbar aber in einem einzgen VAZ zu versteuern sind
+o sie werden für außerordentliche Einkünfte gewährt
+- gem. §34 II EStG:
+o Veräußerungsgewinne mit Ausnahme des Teils des Veräußerungsgewinns, der nach §3 Nr.40 b EStG teilweise steuerbefreit ist (Nr.1)
+o Entschädigungen für entgangene oder entgehende Einnahmen, für die Aufgabe oder Nichtausübung einer Tätigkeit oder für Ausgleichszahlungen an Handelsvertreter iSd. §89 HGB
+o Nutzungsvergütungen für die Inanspruchnahme von Grundstücken für öffentliche Zwecke sowie Zinsen auf solche Nutzungsvergütungen, soweit sie für einen Zeitraum von mehr als drei Jahren gezahlt werden
+o Vergütungen für mehrjährige Tätigkeiten
+- Fünftelungsregel; §34 I 2 EStG	
+o Die anzusetzende Steuer beträgt für diese außerordentlichen Einkünfte das Fünffache des Unterschiedsbetrags zwischen der Einkommensteuer für das verbleibende Einkommen und der. Einkommensteuer für das verbleibende Einkommen zzgl. eines Fünftels der außerordentlichen Einkünfte
+- Halbsteuersatzverfahren, kann auf Antrag durchgeführt werden. Der Steuerpflichtige kann die Besteuerung der außerordentlichen Einkünfte i.S.v. §34 II Nr.1 EStG bis zu einem Betrag von 5 Mio.€ nach diesem Verfahren durchführen. (hierbei die Anwendung der Fünftelungsregel ausgeschlossen §34 III EStG)
+o Steuerpflichtiger muss 55. Lebensjahr vollendet haben, 
+o Oder im sozialversicherungsrechtlichen Sinne dauerhaft berufsunfähig sein
+o Halbsteuersatzverfahren darf noch nie in Anspruch genommen worden sein §34 III 4 EStG
+o Ermäßigter Steuersatz beträgt 56% des durchschnittlichen Steuersatzes, der sich ergeben würde, wenn auf das gesamte zu versteuernde Einkommen (unter Einbeziehung der außerordentlichen Einkünfte) zzgl. der dem Progressionsvorbehalt unterliegenden Einkünfte die Tarifbelastung angewendet werden würde, mindestens jedoch 14%. 
+
+2.4.4.2 Die Steuerbetragsermäßigungen
+- Sehen keinen geminderten Steuersatz vor, sondern gewähren eine Kürzung vor der Steuerschuld
+- Beispiele S.111
+- Steuerbetragsermäßigung für Einkünfte aus Gewerbebetrieb i.S.d. §35 EStG begünstigt. Steuerpflichtige natürliche Personen, die folgende Einkünfte erzielen:
+o Einkünfte ais Gewerbebetrieb als Einzelunternehmer (i.S.d. §15 I 1 Nr.1 EStG)
+o Einkünfte aus Gewerbebetrieb als unmittelbar oder mittelbar beteiligter Mitunternehmer (i.S.d. §15 I 1 Nr.2 EStG; §15 III EStG)
+o Einkünfte aus Gewerbebetrieb als persönlich haftender Gesellschafter einer KGaA (i.S.d. §15 I 1 Nr.3 EStG)
+* Ermäßigungen §35 EStG6
+
+
+2.5 Die Erhebung der Einkommensteue
+- Näheres S. 118-119
+- Bei nichtselbständiger Arbeit wird die Einkommensteuer in Form eines Abzuges vom Arbeitslohn erhoben (Lohnsteuer §§38-42g EStG)
+- Bedeutendste Form 
+- Einbehaltungsbetrag der Lohnsteuer wird auf Grundlage der Lohnsteuerklassen berechnet §38bEStG:
+o Steuerklasse I: gilt grds. für unbeschränkt steuerpflichtige Personen, die ledig, verheiratet, verwitwet oder geschieden sind, sofern die Voraussetzungen für Steuerklasse III und IV nicht erfüllt sind, sowie für beschränkt einkommenssteuerpflichtige Personen
+o Steuerklasse II: gehören die Steuerklasse I zuzuordnende Arbeitnehmer an, bei denen der Entlastungsbetrag für Alleinerziehende (§24b EStG) zu berücksichtigen ist
+o Steuerklasse III: gilt für verheiratete Arbeitnehmer, sofern nur ein Ehepartner berufstätig ist, bzw. beide berufstätig sind und der Ehepartner auf Antrag beider Ehepartner Steuerklasse V wählt. Hierbei wird die abzuführende Lohnsteuer automatisch gem. dem Splittingtarifs berechnet (§39b II 6 EStG)
+o Steuerklasse IV: ist für Ehepaare bestimmt, bei denen beide Partner berufstätig sind. 
+o Steuerklasse V: ist Ehepaaren vorbehalten, bei denen der Ehepartner auf Antrag beider Ehepartner Steuerklasse III gewählt hat
+o Steuerklasse VI: gilt bei Arbeitnehmern, die aus mehr als einem Dienstverhältnis Arbeitslohn beziehen, für das zweite und jedes weitere Arbeitsverhältnis; Hier erfolgt ein sehr hoher Lohnsteuerabzug, was zu einer Einkommensteuerveranlagung zwingen soll. Darüber hinaus greift die Lohnsteuerklasse VI in den Fällen des §39c EStG. Hiernach hat der Arbeitgeber zum Zweck der elektronischen Lohnsteuerabzugsmerkmale die ihm zugeteilte Identifikationsnummer sowie den Tag der Geburt schuldhaft nicht mitgeteilt hat oder das BZSt die Mitteilung der elektronischen Lohnsteuerabzugsmerkmale ablehnt.
+
+
+
+
+2.6 Die Annexsteuern
+
+2.6.1 Die Kirchensteuer
+- Annexsteuer auf die Einkommensteuer, teilweise auch auf Grundsteuer
+- Berechnung
+o Bemessungsgrundlage ist u kindbedingte Freibeträge zu kürzen §51a II EStG 
+- Zusammenveranlagung in einer glaubensverschiedenen Ehe
+o Bemessungsgrundlage teilt sich im Verhältnis der fiktiven Steuerbeträge auf, die sich unter Anwendung des Steuertarifs auf den Gesamtbetrag der Einkünfte eines jeden Ehegatte ergeben
+
+
+
+
+- Wahlrecht des Steuerpflichtigen S. 124-125
+
+2.6.2 Der Solidaritätszuschlag
+- Ergänzungsabgabe i.S.d. Art. 106 I Nr.6 GG
+o Eine gesondert zu erhebende Steuer, die aus technischen Gründen an die Einkommen- bzw. Körperschaftsteuer anknüpft (Annexsteuer)
+- Bemessungsgrundlagen des Solidaritätszuschlages sind:
+o Einkommensteuer (§3 II SolZG i.V.m. §2 VI EStG), deren Bemessungsgrundlage immer um kindbedingte Freibeträge zu kürzen ist
+* Hieraus folgt, dass sich de Bemessungsgrundlage um die anzurechnende Gewerbesteuer mindert
+o Die festgesetzte Körperschaftsteuer, vermindert um die anzurechnende oder vergütete Körperschaftsteuer, wenn ein positiver Betrag verbleibt (§3 I NR.1 SolZG)
+o Vorauszahlungen zur Einkommen-/ Körperschaftsteuer (§3 I Nr.2 SolZG)
+o die Lohnsteuer (§3 I Nr.3 SolZG); die Erhebung erfolgt unter Berücksichtigung der Nullzone (§3 IV SolZG) und der Gleitregelung (§4 SolZG)
+o die Kapitalertragsteuer (§3 I Nr.5 SolZG)
+o bei beschränkt Steuerpflichtigen der Steuerabzugsbetrag gem. §50a EStG (§3 I Nr. 6 SolZG)
+- Der Steuersatz (Zuschlagssatz) beträgt 5,5% (§4 SolZG)
+- Genaueres S. 126
+
+
+3. Körperschaftsteuer
+
+3.1 Charakteristik, Entwicklung und Rechtfertigung
+- Einkommen von Kapitalgesellschaften und sonstigen Körperschaften unterliegen der Körperschaftsteuer (Dualismus der Unternehmensbesteuerung)
+- Gewinn der KapG wird mit Körperschaftsteuer belastet, bei Ausschüttung an Anteilseigner kommt nochmal Einkommensteuer oder Körperschaftsteuer drauf.
+o Potenzielle Doppelbelastung
+- 1977-2000 und 2001-2008 verschiedene Verfahren
+- Seit 2008 werden Gewinne verwendungsunabhängig mit 15% besteuert
+o Ausschüttung wird bei nat. Personen entweder zu 60% besteuert (Teileinkünfteverfahren)
+o Falls die Gesellschaftsanteile im Betriebsvermögen gehalten werden oder die Anteile im Privatvermögen gehalten werden, vollumfänglich mit dem 25%-igen Abgeltungssteuersatz besteuert
+o Bei jur. Personen jedoch nahezu vollständige Steuerbefreiung §8 I, V KStG; soweit kein Streubesitzanteil i.S.d. §8b IV KStG
+
+
+3.2 Das Steuersubjekt
+- Steuersubjekte sind Körperschaften, Personenvereinigungen und Vermögensmassen §§1-6a KStG
+- Unbeschränkt körperschaftsteuerpflichtig sind
+o Sämtliche juristische Personen, die nach deutschem oder europäischem Recht gegründet wurden
+o Gesellschaften, die nicht nach deutschem oder europäischem Recht gegründet wurden, ihrem Gründungsstatut nach aber einer deutschen Kapitalgesellschaft entsprechen,
+o Nicht rechtsfähige Personenvereinigungen und Vermögensmassen (nicht rechtsfähige Zweckvermögen, nicht rechtsfähige Vereine) und
+o Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts,
+die ihre Geschäftsleitung oder ihren Sitz im Inland haben §1 I KStG.
+- Sitz befindet sich an dem Ort, der durch Gesetz, Gesellschaftsvetrag, Satzung, Stiftungsgeschäft oder dergleichen bestimmt wird §11 AO
+- Geschäftsleitung ist dort, wo sich der Mittelpunkt der geschäftlichen Oberleitung befindet §10AO
+- Körperschaften, die gem. §1 I KStG unbeschränkt steuerpflichtig sind, können einer subjektiven Steuerbefreiung i.S.d. §5 I KStG unterliegen
+- Subjektive Steuerbefreiungen gelten nicht für inländische Einkünfte, die einem vollständigen oder teilweisen Steuerabzug unterliegen, und auch nicht für die Einkünfte i.S.d. §32 III 1 Halbs.2 KStG, wodurch auch an sich steuerbefreite Körperschaften einer partiellen Steuerpflicht unterworfen werden §5 II KStG
+
+
+
+3.3 Das Steuerobjekt und die Steuerbemessungsgrundlage
+
+3.3.1 Überblick und Systematik
+- Steuerobjekt ist das in- und ausländische Einkommen der Körperschaft bzw. Kapitalgesellschaft (sog. Welteinkommen)
+- Einkommen i.S.d. §8 I 1 KStG abzgl. Freibeträge der §§24, 25 KStG ergibt das zu versteuernde Einkommen §7 II KStG
+o Bildet die Bemessungsgrundlage der Körperschaftsteuer §7 I KStG
+- Einkünfte aus Gewerbebetrieb durch einen Betriebsvermögensvergleich nach §5 I EStG zu ermitteln
+o Betriebsvermögensvergleich nach §5 I EStG ermittelt den steuerpflichtigen Gewinn durch Vergleich des Vermögens am Ende des Wirtschaftsjahres und des Vermögens am Ende des vorangegangenen Wirtschaftsjahres
+o Grundlage ist die derivative Steuerbilanz (aus der Handelsbilanz abgeleitet)
+o Schematisch gestaltet sich die Ableitung beim Vermögensvergleich wie dargestellt
+
+o Resultierender steuerpflichtiger Gewinn = zu versteuerndes Einkommend er Kapitalgesellschaft
+
+
+3.3.2 Spezielle Einkommensermittlungsvorschriften des KStG
+
+3.3.2.1 Verdeckte Gewinnausschüttungen und verdeckte Einlagen
+- Verdeckte Gewinnausschüttung (vGa) ist gesetzlich nicht definiert
+- vGa darf das körperschaftliche Einkommen nicht mindern §8 III 2 KStG
+- Definition von vGa durch Rechtsprechung
+o Eine Vermögensminderung oder eine verhinderte Vermögensmehrung
+o Die durch das Gesellschaftsverhältnis veranlasst ist
+o Sich auf die Höhe des Unterschiedsbetrags i.S.d.  §4 I 1 EStG auswirkt und 
+o Nicht auf einem den gesellschaftsrechtlichen Vorschriften entsprechende Gewinnverteilungsbeschluss beruht
+- Bei vGa wird von 3 Grundsätzen ausgegangen
+o Vermögensveränderungen, die auf schuldrechtliche Beziehungen zwischen Gesellschaft und Gesellschafter zurückgehen, werden grds. anerkannt (Trennungsprinzip)
+o Durch das Gesellschaftsverhältnis begründete Vermögensveränderungen (Kapitalzuführungen durch Gesellschafter oder Ausschüttung an Gesellschafter) sollen die Bemessungsgrundlage der Körperschaftsteuer nicht beeinflussen
+o Wegen zu vermutender Interessenidentität ist bei schuldrechtlichen Beziehungen zwischen Gesellschaft und Gesellschaftern trotz ihrer grds. Anerkennung besonders zu prüfen, ob der Grund für die schuldrechtliche Vereinbarung nicht doch durch das Gesellschaftsverhältnis veranlasst ist.
+o Jede Vermögensverminderung oder verhinderte Vermögensmehrung deren Veranlassung im Gesellschaftsverhältnis liegt, die sich weiterhin auf die Höhe des Einkommens ausgewirkt hat und die in keinem Zusammenhang mit einer offenen Gewinnausschüttung steht, führt zur Rechtsfolge einer verdeckten Gewinnausschüttung die außerhalb der Steuerbilanz hinzugerechnet werden muss
+- Genauer+ verdeckte einlagen S.138-142
+
+
+3.3.2.2 Betriebsausgabenabzug für Zinsaufwendungen bei Körperschaften (§8 KStG) (S. 142-147)
+
+3.3.2.3 Abziehbare und nicht abziehbare Aufwendungen
+- Verweis in §8 I 1 KStG- Vorschriften über abziehbare Aufwendungen die auch im Einkommensteuergesetz gelten (Betriebsausgaben i.S.d. §4 IV EStG), gelten auch im KStG
+- Kreis der bereits einkommensteuerlich abziehbaren Aufwendungen wird jedoch durch die in §9 KStG (nicht abschließend) aufgezählt
+o Gewinnanteile und Tätigkeitsvergütungen des Komplementärs einer KGaA 
+o Spendenabzug
+- Auch die Vorschriften über nicht abziehbare Aufwendungen zählen; u.a.:
+o Aufwendungen die mit steuerfreien Einnahmen in unmittelbarem wirtschaftlichen Zusammenhang stehen)
+o Schuldzinsen im Fall von Überentnahmen
+o Gewerbesteueraufwand
+o …
+- §10 KStG, weiter nicht abziehbare Aufwendungen
+o Satzungspflichtaufwendungen
+o Nicht abziehbare Steueraufwendungen
+o Geldstrafen, Geldbußen
+o Hälfte der Aufsichtsratsvergütungen
+
+
+
+3.3.2.4 Abziehbare Erträge
+- Abziehbar sind steuerfreie Erträge
+- Abziehbar sind Erträge aus nicht abziehbaren Aufwendungen 
+- Dividendenbezüge von einer Kapitalgesellschaft bleiben bei der Ermittlung des Einkommens außer Acht, sofern die Beteiligung an der KapG mindestens 10% beträgt
+- Veräußerungsgewinne sind steuerfrei
+
+3.3.2.5 Besonderheiten bei der Behandlung von Verlusten
+- S. 150- 153
+
+
+3.4 Der Steuertarif und das Besteuerungsverfahren der Körperschaftsteuer
+
+3.4.1 Der Steuertarif
+- Körperschaftsteuersatz ist einheitlich 15% §23 I KStG
+- Ergebender Steuerbetrag ist zugunsten des Steuerpflichtigen auf volle € zu runden §31 I 2 KStG
+
+3.4.2 Das bis Ende 2000 gültige Anrechnungsverfahren (S.154-155)
+
+3.4.3 Das neue klassische Körperschaftsteuersystem
+
+3.4.3.1 Besteuerung auf Ebene der Kapitalgesellschaft
+
+3.4.3.1.1 Das Besteuerungsverfahren
+- Sollen versteuerte Gewinne ausgeschüttet werden, muss die ausschüttende Gesellschaft Kapitalertragsteuer einbehalten
+- Der Kapitalertragsteuersatz für Dividendenbezüge beträgt 25% §43a I 1 Nr.1
+
+3.4.3.1.2 Gliederung des steuerbilanziellen Eigenkapitals
+
+3.4.3.1.2.1 Der ausschüttbare Gewinn
+- = das um das gezeichnete Kapital geminderte steuerbilanzielle Eigenkapital abzüglich des Bestands des steuerlichen Einlagenkontos (§27 I 5 KStG)
+- Auch neutrales Vermögen
+
+3.4.3.1.2.2 Das steuerliche Einlagenkonto
+- Einlagen der Gesellschafter sind gesondert und zeitlich unbegrenzt fortzuführen
+o Erfolgt mittels steuerlichem Einlagenkonto das um die jeweiligen Zu- und Abgänge fortzuschreiben ist
+- Es ist eine von der Bilanz losgelöste steuerliche Größe. 
+
+
+
+3.4.3.2 Besteuerung auf Ebene des Anteilseigners
+
+3.4.3.2.1 Anteilseigner ist eine natürliche Person
+- Unterscheiden, ob Anteilseigner die Gesellschaftsanteile im Privat- oder Betriebsvermögen hält
+- Genaueres S. 158-160
+
+3.4.3.2.2 Anteilseigner ist eine juristische Person
+
+3.4.3.2.2.1 Beteiligung beträgt zu Beginn des Kalenderjahres weniger als 10%
+S. 160-162
+
+3.4.2.2.2 Beteiligung beträgt zu Beginn des Kalenderjahres mindestens 10%
+S. 163-165
+
+
+4. Gewerbesteuer
+
+4.1 Charakteristik, Entwicklung und Rechtfertigung
+- Objektsteuer (Realsteuer, Sachsteuer)
+o Belastet ein Objekt (hier Gewerbebetrieb im Inland) 
+
+
+4.2 Das Steuersubjekt
+- Steuersubjekt/Steuerschuldner ist der Unternehmer, für dessen Rechnung ein Gewerbe tatsächlich betrieben wird §5 I 1,2 GewStG
+
+
+4.3 Das Steuerobjekt
+
+4.3.1 Überblick und Systematik
+- Belastet die Erträge von gewerblichen Unternehmen, wobei der Gewerbeertrag als Maßstab für seine Ist-Ertragkraft steht
+- Steuerobjekt ist nicht der Gewerbeertrag sondern der Gewerbebetrieb selbst §2 GewStG
+o wird durch den Steuermessbetrag näher quantifiziert
+o dieser ermittelt sich auf Basis des Gewerbeertrags 
+- Steuerobjekt  ist jeder stehende Gewerbebetrieb, soweit er im Inland betrieben wird §2 I 1 GewStG
+o zunächst Gewerbebetriebe kraft Betätigung	
+* gew. Einzelunternehmen und gew. Personengesellschaften (originär gewerblich tätige Personengesellschaften)
+o Gewerbebetriebe kraft Rechtsform
+o Gewerbebetrieb kraft wirtschaftlichen Geschäftsbetrieb
+o Unternehmen von juristischen Personen des öffentlichen Rechts
+o Reisegewerbebetrieb
+
+
+
+4.3.2 Der Gewerbeertrag nach §7 GewStG
+
+4.3.2.1 Schema zur Ermittlung des Gewerbeertrags
+
+
+4.3.2.2 Der Gewinn als Grundlage für die Gewerbeertragsermittlung
+- Ausgangsgröße= gewerblicher Gewinn (nach Vorschriften des EStG und KStG)
+- Genauer S. 171
+
+4.3.2.3 Die Hinzurechnungen nach §8 GewStG
+- Hinzugerechnet wird ein Viertel der den (Frei-)Betrag von 200.000€ übersteigenden Summe aus (§8Nr,1 GewStG):
+o Entgelt für Schulden
+o Renten und dauernden Lasten
+o Gewinnanteilen des stillen Gesellschafters
+o 20% der Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung von beweglichen Wirtschaftsgütern des Anlagevermögens, die im Eigentum eines anderen stehen
+o 50% der Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung der unbeweglichen Wirtschaftsgüter des Anlagevermögens, die im Eigentum eines anderen stehen
+o 25% der Aufwendungen für die zeitliche befristete Überlassung von Rechten
+- Hinzugerechnet werden außerdem die Gewinnanteile des persönlich haftenden Gesellschafters einer KGaA (§8 Nr.4 GewStG)
+- Hinzugerechnet werden u.U. auch die einkommen- oder körperschaftsteuerlich steuerfrei gestellten Dividendenbezüge (§8 Nr. 5 GewStG)
+- Hinzuzurechnen sind außerdem die Anteile am Verlust von in- und ausländischen Mitunternehmergemeinschaften (§8 Nr.8 GewStG)
+- Körperschaftsteuerlich abziehbare Zuwendungen wie Spenden und Mitgliedsbeiträge
+
+4.3.2.4 Die Kürzungen nach §9 GewStG
+- Kürzungsvorschriften, die bestimmte Teile des Gewerbeertrags vor (doppelt)besteuerung schützen sollen
+- Grundbesitzabzüge §9 Nr.1 GewStG 
+o Normalkürzung 1,2%
+* des gem. §121a BewG um 40% erhöhten Einheitswertes der Betriebsgrundstücke, sofern es keine von der Grundsteuer befreite Betriebsgrundstücke sind 
+o bei Grundstücksunternehmen ist der individuelle Abzug der auf die Grundbesitznutzung fallende Gewerbeerträge möglich, wenn das Unternehmen ausschließlich eigenen Grundbesitz oder neben eigenem Grundbesitz eigenes Kapitalvermögen verwaltet oder nutzt 
+- Erträge aus Beteiligungen und ausländischen Betriebstätten
+o Gewinnanteile aus in- und ausländischen Mitunternehmerschaften (§9 Nr.2 GewStG)
+* Werden gekürzt, da sie gewerbesteuerlich bereits bei der gewinnerzielenden Gesellschaft berücksichtigt wurden
+o Gewinnanteile aus inländischen Kapitalgesellschaften 
+* Sog. nationales gewerbesteuerliches Schachtprivileg
+* Zweck: Mehrfachbelastung  bei Beteiligungen an Kapitalgesellschaften
+* Kürzung setzt Beteiligugshöhe zu Beginn des Erhebungszeitraums mindestens 15% beträgt
+* Ablauf:
+* Dividendenbezüge voll als Ertrag und damit zusammenhängende Aufwendungen als Aufwand gebucht
+* Nach §3 Nr. 40 Buchst.d EStG werden einkommensteuerlich 40% der Dividendenbezüge außerbilanziell abgerechnet; 40% der Aufwendungen werden außerbilanziell hinzugerechnet
+* Bei gewerbest. Schachtelprivileg, greift die Hinzurechnungsvorschrift nach §8 Nr.5 GewStG nicht; stattdessen greift die Kürzungsvorschrift wonach auch die verbleibenden 60% der Dividende, vermindert um die 60% der zugehörigen Aufwendungen abzuziehen sind.
+o Zuwendungen (Spenden und Mitgliedsbeiträge)
+* i.R.d festgelegten Höchstgrenzen
+* handelsrechtlich als Aufwand gebucht
+* körperschaftsteuerlich werden alle Zuwendungen wieder hinzugerechnet, um auf der sich dann ergebenden Ausgangsbasis das Volumen der abziehbaren Zuwendungen zu berechnen und schließlich abzuziehen.
+* Ergebnis geht auch in die gewerbesteuerliche Ausgangsgröße ein 
+* Gewährleistet, dass der Höchstbetrag des Spendenabzugs nach gewerbesteuerlichen Vorschriften ermittelt wird.
+
+
+4.3.2.5 Der Gewerbeverlust nach §10a GewStG
+- Gewerbeertrag (nach Vornahme von Hinzurechnungen und Kürzungen) wird bis zu einem Betrag i.H.v. 1 Mio€ unbeschränkt um Fehlbeträge gekürzt
+o Fehlbetrag= Gewerbeverlust= negativer Gewerbeertrag= Ausgangsgröße zzgl. Hinzurechnungen abzgl. Kürzungen; §10a S.1 GewStG)
+o Gewerbeverlustabzug auf 60% des verbleibenden positiven Gewerbeertrags begrenzt
+* Anders ausgedrückt; auch bei Gewerbesteuer, Mindestbesteuerung i.H.v. 40% des 1 Mio.€ übersteigenden Gewerbeertrags 
+o Verlustrücktrag ist nicht möglich
+- Bei Einzelunternehmern und Personengesellschaften ist Voraussetzung für den Verlustabzug nach §10a GewStG, dass sowohl Unternehmensidentität als auch Unternehmeridentität besteht
+o Unternehmensidentität, wenn der im Anrechnungsjahr bestehende Gewerbebetrieb mit dem Gewerbebetrieb identisch ist, der im Jahr der Verlustentstehung bestanden hat
+o Unternehmeridentität, wenn derjenige Gewerbetreibende, der den Abzug des Verlusts in Anspruch nehmen will, den Gewerbeverlust zuvor in Person erlitten hat
+- Bei PG ist Verlust den Mitunternehmern zuzurechnen; maßgebend ist der allgemeine Gewinnverteilungsschlüssel der Mitunternehmerschaft
+- Bei Körperschaften geht die Nutzung laufender und vorgetragener Verluste unter den gleichen Voraussetzungen unter, wie dies körperschaftsteuerlich der Fall ist
+o Gleiches gilt auch für den Gewerbeverlust einer Mitunternehmerschaft, soweit er mittelbar oder unmittelbar einer Körperschaft zuzurechnen ist
+
+
+4.3.3 Die Bemessungsgrundlage (Steuermessbetrag)
+- Bemessungsgrundlage= Steuermessbetrag §14 GewStG
+- Ergibt sich auf Basis der Besteuerungsgrundlage „Gewerbeertrag“, welcher mit der Steuermesszahl zu multiplizieren ist.
+- Auf volle € nach unten abzurunden
+- Steuermesszahl beträgt einheitlich und rechtsformunabhängig 3,5%
+
+
+4.4 Der Steuertarif und die Hebesatzanwendung
+- Gewerbesteuerschuld ergibt sich durch Multiplikation des Steuermessbetrags mit dem Hebesatz
+- Hebesätze werden von der Gemeinde festgesetzt
+- Gemeinden sind verpflichtet Gewerbesteuer zu erheben
+o Hebesatz muss mind. 200% betragen, wobei es überlassen ist, höheren Hebesatz festzusetzen
+- Gewerbesteuer= nicht abziehbare Betriebsausgabe
+
+
+4.5 Die Zerlegung des Steuermessbetrags
+- Probleme, wenn mehrere Gemeinde Recht zur Gewerbesteuererhebung zusteht
+o Auf die in den einzelnen Gemeinden entfallende Anteile aufteilen (Zerlegungsanteile)
+
+4.6 Das Besteuerungsverfahren
+
+4.7 Kritik am geltenden Gewerbesteuerrecht
+
+
+5. Grundsteuer
+
+
+
+6. Erbschaft- und Schenkungsteuer
+
+6.1 Charakteristik und Rechtfertigung
+- Sondersteuer
+- Besteuert den Transfer von Vermögenssubstanz zwischen zwei Steuersubjekten
+- Personensteuer
+- Erbanfallsteuer- Bereicherung beim einzelnen Erben besteuert und nicht die Nachlassmasse als solche
+- Ländersache
+
+
+6.2 Das Steuersubjekt
+- Unbeschränkte Erbschaftsteuerpflicht, wenn Vermögensübergänge von Inländern ausgehen oder an Inländer erfolgen 
+o Inländer sind hier nat. Personen, die im Inland ihren Wohnsitz oder gew. Aufenthalt haben und jur. Personen mit Sitz oder Ort der Geschäftsleitung im Inland
+o Steuerpflicht erstreckt sich auf den gesamten Vermögensanfall, woraus folgt, dass sowohl im Inland als auch im Ausland stattfindende Vermögensübertragungen erfasst werden (Universalitätsprinzip)
+- Beschränkte Erbschaftsteuerpflicht, wenn an dem Vermögensanfall zwar kein Inländer beteiligt, aber Inlandsvermögen übertragen wird
+o Nur Inlandsvermögen wird steuerlich erfasst (Territorialprinzip)
+
+
+6.3 Das Steuerobjekt und die Bemessungsgrundlage
+- Haupttatbestand= Erwerb von Todes wegen; 
+- Ersatztatbestände sind Schenkungen unter Lebenden, Zweckzuwendungen sowie bestimmte Stiftungs- und Vereinsvermögen
+- D
+o Wert der Bereicherung des Erwerbs
+o Verweis auf BewG (--> Bedarfwert)
+o Gemeiner Wert (aktueller EVP am Markt)
+o Spezielle Regelungen
+* Grundstücke (Vergleihswerte/ Ertragswerte)
+* Kleine Vergünstigungen
+* Unternehmen (Einzelunternehmen/ Personengesellschaftsanteile/ Anteile an Kapitalgesellschaften> 25%
+
+
+
+
+o Größere Begünstigungen bei Transfer von Unternehmen
+* Basisfall: 85% Abschlag auf BV
++ Abzugsbetrag (150.000€)
++ Tarifbegünstigung
+* Erweiterungsfall: 100% Abschlag
++ Tarifbegünstigung
+* Begrenzung auf 26 Mio.€: Großerwerb (Verschärfung)
+o Freibeträge (persönliche Freibeträge) vor allem für Ehegatten (500.000€) und Kinder (400.000€) und Versogrungsfreibetrag für Ehegatten (256.000€)
+o Sachliche Befreiung (vor allem Hausrat)
+o Zugewinnausgleich befreit
+
+
+6.4 Der Steuertarif
+- progressiv: Höhe des Erwerbs und Steuerklasse (I, II, III)
+- 10 Jahres Regelung (alle Vermögensvorteile zusammenrechnen, die eine Person von einer anderen Person zufallen)
+
+
+6.5 Besteuerungsverfahren
+- Veranlagungssteuer (Steuerbetrag wird durch Steuererklärung ermittelt und durch Erbschaftsteuerbescheid festgesetzt
+- Umfassende Anzeigepflicht
+
+
+7. Umsatzsteuer
+Zweitwichtigste nach Einkommensteuer
+
+7.1 Charakteristik, Rechtfertigung, Entwicklung und Einflüsse des Gemeinschaftsrechts
+- Verbrauchsteuer im Gewande einer Verkehrsteuer (indirekte Steuer)
+- Destinatar: Konsument
+- USt-Entrichtung: Unternehmer
+- Regressive Wirkung
+- EU-Harmonisierung
+
+7.2 Grenzüberschreitende Geschäftstätigkeiten
+- Ursprungsland- oder Bestimmungslandprinzip
+- BLP grds. relevant
+- ULP: Annahme, dass die Steuer dem Staat gebührt, in dem der entsprechende Mehrwert geschaffen wurde, Die Umsatzsteuer richtet sich nach den Verhältnissen des Staates, von dem die grenzüberschreitenden Geschäfte ausgehen. Im Staat des Empfängers erfolgt die Freistellung von der Umsatzsteuer. 
+- BLP: betont Verbrauchsteuercharakter der Umsatzsteuer, da das Besteuerungsrecht dem Staat zugewiesen wird, in dem der Verbrauch stattfindet. Gegenstände, Leistungen, die eine Grenze passieren, werden von der inländischen Umsatzsteuer befreit und unterliegen nur der Umsatzsteuer des Bestimmungslandes
+- Drittstaaten: BLP
+- EU: eigentlich ULP
+
+
+
+7.3 Die Umsatzsteuersysteme
+- Anzahl der Erhebungsstufen 
+o Einphasen-USt (Einzelhandel)
+o Mehrphasen-USt (Einzel- und Großhandel)
+o Allphasen-USt (auf jeder Ebene wird besteuert)
+- Berechnung der Steuerbemessungsgrundlage
+o Brutto-USt (bis 1967-->4%)
+o Netto-USt (seit 1968-->10| 11%-->19%)
+- Zeitpunkt des Abzugs der Vorleistung
+o Sofortabzug
+o Pro-rata-temporis-Abzug (über die Laufzeit)
+
+
+7.4 Das Steuersubjekt
+- Steuerschuldner: Unternehmer
+- Unternehmerfähigkeit: nat. Person; jur.Personen; Personengesellsch.
+- Sachliche Voraussetzungen:
+o Gewerblich oder beruflich (nachhaltig)
+o Selbständig
+o G-Erzielungsabsicht nicht erforderlich
+- Grundsatz der Unternehmenseinheit (1 Unternehmer mit 1 Unternehmen)
+- Grundsatz: USt nur bei Unternehmern (Ausnahme: Nicht-Unternehmer)
+o Besonderheit: reversed-charged Verfahren
+- Unternehmer zur USt veranlagt, schuldet USt und zieht Vorsteuer ab
+
+
+7.5 Das Steuerobjekt
+
+7.5.1 Die steuerbaren Umsätze (§1 I UStG)
+- Lieferungen und sonstige Leistungen
+o Unternehmer
+o Im Inland
+o Gegen Entgelt
+o Im Rahmen seines Unternehmens
+- Einfuhr von Gegenständen (Nicht-EU)
+- Innergemeinschaftlicher Erwerb (EU)
+- Ergänzende Details zu L+L
+o Einheitlichkeit der Leistungen
+o Haupt- und Hilfstätigkeit
+o L+L auch bei Eigen- und Gesellschafterverbrauch
+- Keine Lieferungen und Leistungen: Nicht steuerbare Umsätze
+o Z.B. Geschäftsveräußerungen im Ganzen
+- Ort der L+L
+o Lieferungen: Lieferort beim Lieferanten
+o Sonstige Leistungen
+* An Unternehmer: Ort des empfangenen Unternehmens
+* An nicht- Unternehmer: grds. Ort des Leistenden Unternehmers
+--> häufig der Ort des Empfängers 
+
+7.5.2 Die Steuerbefreiungen (§4 UStG)
+- Auslieferungen (VSt-Abzug)
+- Innergemeinschaftliche Lieferungen (VSt- Abzug)
+- Bestimmte Umsätze im Gelf- und Kapitalverkehr
+- Grundstücktransfer (Konkurrenz zur Verkehrsteuer)
+- Verrichtungsleistungen (Konkurrenz zu Verkehrsteuer)
+- V+V von Grundstücken
+- Leistungen von Ärzten
+- Bestimmte kulturelle Leistungen
+
+
+7.5.3 Die Ein- und Ausfuhrumsätze und ihre Besonderheiten (Nicht EU-Bezug)
+- BLP (Einfuhr: Lieferant D)
+- Einfuhr: USt ind D
+- AUfuhr: Befreiung in D
+- Nicht-kommerzieller Handel: BLP
+
+
+7.5.4 Der innergemeinschaftliche Handel und seine Besonderheiten (EU-Bezug)
+- Innergemeinschaftlicher Erwerb
+o Einfuhrbesteuerung (Unternehmerbezug)
+o Besonderheit: Halbunternehmer 
+- Innergemeinschaftliche Lieferung
+o Ausfuhrlieferung befreitt: Nachweispflicht
+o Besonderheit: Halbunternehmer
+- Nicht-kommerzieller Handel
+o Abhollieferung: ULP
+o Versandlieferung: BLP
+o Neue Fahrzeuge und verbrauchsteuerpflichtig
+
+
+7.6 Die Bemessungsgrundlage (§10 UStG)
+- Entgelt
+- Ersatzweise: Entstandene Kosten (Eigen- und Gesellschafterverbrauch)
+- Mindestbemessungsgrundlage: Entstandene Kosten
+- Berichtigung bei Änderung der Bemessungsgrundlage
+
+
+
+
+7.7 Die Steuersätze (§12 UStG)
+- 19% Normalsteuersatz
+- 7% ermäßigter Steuersatz
+- 0% --> Photovoltaikanlagen
+
+7.8 Der Vorsteuerabzug (§15 UStG)
+Grundsatz: Nur Unternehmer
+
+7.8.1 Voraussetzungen des Vorsteuerabzugs (§15 I UStG)
+- Von anderen Unternehmen (oder Einfuhr-USt/ innergem. Erwerb)
+- Empfänger: Unternehmer+ Leistung für Unternehmer
+- Nachweispflichten durch Rechnung
+
+7.8.2 Ausschluss des Vorsteuerabzugs (§15 Ia UStG)
+- Repräsentationsaufwendung
+- Gemischt genutzte Grundstücke
+
+7.8.4 Steuerbefreiungen und Vorsteuerabzug (§15 II, III UStG)
+- Grundsatz: Kein Vorsteuerabzug
+- Mögliche negative Effekte 
+- Optionsrecht auf Verzicht der Steuerbefreiung teilweise gegeben
+
+7.8.5 Teilweiser Ausschluss vom Vorsteuerabzug §15 IV UStG
+- Bei gemischten Leistungen
+
+7.8.6 Berichtigung des Vorsteuerabzugs §15a UStG
+
+
+7.9 Die Besteuerungsformen
+- Soll-Besteuerung (Ist-Besteuerung als Ausnahme)
+- Bei Auszahlungen: Immer USt
+- Kleinunternehmerregelung
+o Option (keine USt/ keine VSt)
+
+7.10 Die Besteuerungsverfahren
+- Veranlagungssteuer
+- USt-Voranmeldung unterjährig
+- Sonderpflichten bei innergemeinschaftlichen Sachverhalten
